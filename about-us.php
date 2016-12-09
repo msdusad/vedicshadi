@@ -23,7 +23,7 @@
             <div class="row">
               <div class="col-md-5">
                 <div class="aa-about-us-left">
-                  <img src="img/about-us.png" alt="image">
+                  <img src="img/slider/guru.jpg" alt="image">
                 </div>
               </div>
               <div class="col-md-7">

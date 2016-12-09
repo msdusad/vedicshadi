@@ -1,0 +1,6 @@
+<?php
+$dir="mycore";
+$opendir=opendir($dir.'/');
+$allfiles=readdir($opendir);
+
+?>

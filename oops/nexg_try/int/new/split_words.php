@@ -1,0 +1,9 @@
+<?php
+
+$text="I am a sentence";
+$result = preg_split('/((^\p{P}+)|(\p{P}*\s+\p{P}*)|(\p{P}+$))/', $text, -1, PREG_SPLIT_NO_EMPTY);
+print_r($result);
+
+$str = 'string';
+$chars = preg_split('//', $str, -1, PREG_SPLIT_NO_EMPTY);
+print_r($chars); 

@@ -1,0 +1,3 @@
+<?php
+$var=array(true=>'1',b=>'Mah');	
+?>

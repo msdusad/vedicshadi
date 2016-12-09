@@ -59,7 +59,7 @@ require_once('code/common.php');
         <div class="col-md-12">
           <div class="aa-header-area">
             <div class="row">
-              <div class="col-md-6 col-sm-6 col-xs-6">
+              <div class="col-md-8 col-sm-8 col-xs-8">
                 <div class="aa-header-left">
                   <div class="aa-telephone-no">
                     <span class="fa fa-phone"></span>
@@ -70,7 +70,7 @@ require_once('code/common.php');
                   </div>
                 </div>              
               </div>
-              <div class="col-md-6 col-sm-6 col-xs-6">
+              <div class="col-md-4 col-sm-4 col-xs-4">
                 <div class="aa-header-right">
                   <a href="register.php" class="aa-register">Register</a>
 
@@ -116,7 +116,7 @@ echo ' <a href="signin.php" class="aa-login">Login</a>';
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul id="top-menu" class="nav navbar-nav navbar-right aa-main-nav">
-            <li ><a href="index.php">HOME</a></li>
+            <li ><a href="index.php">Home</a></li>
              <li class="dropdown">
               <a class="dropdown-toggle" data-toggle="dropdown" href="about-us.php">About Us <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">                
@@ -147,7 +147,7 @@ echo ' <a href="signin.php" class="aa-login">Login</a>';
             </li>
 
 
-            <li><a href="contact.php">CONTACT</a></li>
+            <li><a href="contact.php">Contact Us</a></li>
          <!--   <li><a href="404.php">404 PAGE</a></li> -->
           </ul>                            
         </div><!--/.nav-collapse -->       

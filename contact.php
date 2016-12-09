@@ -31,7 +31,7 @@
                 <h2>Contact</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae placeat aspernatur aperiam, quisquam voluptas enim tempore ab itaque nam modi eos corrupti distinctio nobis labore dolorum quae tenetur. Sapiente, sequi.</p>
                 <ul class="contact-info-list">
-                  <li> <i class="fa fa-phone"></i>   +91 7065303100</li>
+                  <li> <i class="fa fa-phone"></i>  +91 7027481102 , 7027471102 </li>
                   <li> <i class="fa fa-envelope-o"></i> info@vedicshadi.com</li>
                   <li> <i class="fa fa-map-marker"></i> 36008 AL-77, Talladega, AL 35160, USA</li>
                 </ul>

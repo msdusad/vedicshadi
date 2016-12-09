@@ -78,7 +78,7 @@ else{
                     <span class="aa-price">
                      <!--  $35000 -->
                     </span>
-                    <a href="#" class="aa-secondary-btn">View Full Profile</a>
+                    <a href="searched_view_profile.php?id=<?php echo $view['id'];?>" class="aa-secondary-btn">View Full Profile</a>
                   </div>
                 </div>
               </article>

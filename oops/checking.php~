@@ -1,0 +1,10 @@
+<?php
+
+$value=200;
+$m="Mahender";
+function changevalue(){
+$value=250;
+
+}
+echo("$value"."$m");
+?>
