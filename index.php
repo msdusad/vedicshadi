@@ -815,7 +815,7 @@ div.panel.show {
         <div class="col-md-12">
           <div class="aa-service-area">
 
-<button class="accordion">Point 1</button>
+<button class="accordion">शादी के प्रति अन्य आचार्यो के विचार </button>
 <div class="panel">
   <p>Weddings to me are wondrous because they are so filled with tomorrows. -Mary Forsell <br>
 
@@ -879,7 +879,7 @@ Weddings remind us that our lives have meaning and that love is the strongest bo
 I think men who have a pierced ear are better prepared for marriage. They’ve experienced pain and bought jewelry. -Rita Rudner</p>
 </div>
 
-<button class="accordion">Point 2</button>
+<button class="accordion">  सुखी शादी के मन्त्र </button>
 <div class="panel">
   <p>1. "A successful marriage requires falling in love many times, always with the same person." <br>
 2.
@@ -917,7 +917,7 @@ by dhameshvari devi dasi</b> <br>
 10.Lastly, be determined that whatever happens, you are not going to leave Krishna...if you have this determination, even if you want to leave, Krishna wont leave you..</p>
 </div>
 
-<button class="accordion">Point 3</button>
+<button class="accordion">कृष्ण भावना मर्त मैं शादी का महत्व </button>
 <div id="foo" class="panel">
   <p> Marriage in Krishna Consciousness
 In Vedic culture four main divisions of society or ashrams are recognized: brahmacarya (celibacy), grihasta (householder life), vanaprastha (pre-retirement), sannyasa (renounced preacher).<br>
@@ -956,9 +956,13 @@ Srila Prabhupada’s most significant contribution, however, is his books. He pu
 </div>
 
 
-<button class="accordion">Point 5</button>
+<button class="accordion">Iskcon के महान आचार्यो का शादी के प्रति विचार</button>
 <div id="foo" class="panel">
   <p>
+
+  जीवन रूपी गाड़ी को चलाने के लिए पति व पत्नी दो पहियो के समान हैं . यदि एक भी पहिया (चक्र) मैं कमी है तो गाड़ी नही चल पायेगी . दूसरे का साथ दे कर जीवन को आगे बढाते हैं  और जीवन की सार्थकता को पूर्ण करते हैं .
+" जीवन भागवान का एक अनुपम उपहार हैं  और पति - पत्नी इस उपहार के दो बीज हैं जो भगवान् के जीवन रूपी उपहार को आगे बढाते  हैं  ")
+<br><br>
 <b>Bhaktivinoda Thakur</b>.<br>
   Marriage with a view to peaceful and virtuous life and with a view to procreate servants of the Lord is a good institution for a Vaisnava. Spiritual cultivation is the main object of life. Do everything that helps it and abstain from everything that thwarts the cultivation of the spirit.<br><br>
 
@@ -976,6 +980,22 @@ Nowadays, people begin to think that they need convenience rather than love—ju
 <li>A.C. Bhaktivedanta Swami Prabhupada</li>
 <li>They (The married couples) should know that bodily relations between the husband and wife is secondary ; primary factor is that both should help one another in the matter of advancement of Krishna consciousness.</li></p>
 </div>
+
+
+
+
+
+<button class="accordion">विवाह की पद्धति</button>
+<div id="foo" class="panel">
+  <p>
+आधुनिक युग मैं विवाह अनगिनत विकल्पों और समझोतो का विषय बन गया हैं . लड़का और लड़की एक दूसरे को पसंद करते हैं  और स्वेच्छापूर्वक एक बंधन मैं बांध जाते हैं  जो विवाह की सही पद्वति नही है. 
+सभी धर्मो मैं विवाह की अलग - अलग पद्धतिया है . जो सही व सत्य है . हमें इन्हें अपनाकर ही वैवाहिक जीवन को जीना चाहिए . हम यह सभी धर्मो के लोगो को जगरूप करके उन्ही की प्रथा के अनुसार उnका विवाह करने का परयash कर रहें है .
+हमारे सभी धर्मवासियो से निवदेन है वह इसे किसी विशेष धर्म से  जोड़कर न देखें . हम धर्म से ऊपर उठकर  मानव जीवन के उद्देश्यों को कैसे पूरा करें ? से है | इसके लिए किन शिक्षाओ की आवश्यकता है इसे देने का प्रयास है |
+ <br>
+</p>
+</div>
+
+
 
             <div class="aa-title">
               <h2>Find your Special Someone</h2>
