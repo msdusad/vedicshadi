@@ -17,14 +17,32 @@ if($obj==false){
 echo "Login Failed , Wrong Username/Password";
 }
 else{
+
 	if(!isset($_SESSION)){
 session_start();
 }
+
 foreach($obj as $loginuser){
+
+if($loginuser['verified']=='0'){
+
+header('Location:../email_verification.php');
+
+}
+else{
 	
 	$_SESSION['userid']=$loginuser['id'];
 	$_SESSION['tokenid']=$loginuser['token_id'];
-      header('Location:../index.php');
+
+
+
+	if($loginuser['email']=='admin@gmail.com'){
+header('Location:../admin.php');
+	}
+	else{
+      header('Location:../view-profile.php');
+	}
+  }
 }
 }
 }
