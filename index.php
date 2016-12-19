@@ -815,6 +815,38 @@ div.panel.show {
         <div class="col-md-12">
           <div class="aa-service-area">
 
+
+<button class="accordion"> Vedicshadi.com  ही क्यों ?</button>
+<div id="foo" class="panel">
+  <p>
+<br>                  
+                                     हरे कृष्ण , हमारे आस पास बहुत सी ऐसी संस्थाए है जो शादिया करवा रही हैं. उनका एकमात्र उदेशय शादी करवान और पैसे कमान है | कुछ संस्थाए युवक - युवतियों की मिलवाने का काम कर रहे हैं और बदले मैं पैसा ले रहें है . 
+परंतु वैदिक शादी संस्था का मूल उद्देश्य हैं की नए  युवक - युवतियों ko milana or unko प्रशिक्षण देंna जिससे उनका वैवाहिक जीवन सुखमय हो सके | हमारे उद्दस्य हैं की ज्यादा से ज्याद युवक -युवतियों को उनकी पसंद के अनुसार मिलवाना और शाद्दी के महत्व को बताना |
+
+" शादी एक सेक्स का साधन नही हैं | शादी का मतलब जीवन व समाज को सुचारू रूप से चलाने से हैं   "
+
+शादी से ही जीवन रूपी ग्रस्थो को सुरुवात होती हैं  और यदि सुरुवात के ही समय यदि आप सही चुनाव नही कर पाए तो वह शादी नरक के समान हो जाती है  और यदि सही चुनाव कर लिया तो आप का जीवन स्वर्ग बन जाता है  और ऐसे जीवन की कामना देवता गण भी करते है.तो हम साधारण मनुष्य का जीवन अति सुखमय हो जायेगा .क्या कहना - इसलिए मैं आप सभी से अनुरोध करता हूँ की आप सभी  जो नए वैवाहिक जीवन मैं बंधने जा रहे हैं  वेदीक्षादि.कॉम पर रजिस्ट्रेशन करें और अपने वैवाहिक जीवन को सफल बनाये . धन्यवाद .
+                   
+<br><br>
+  First, the number of anti-feminism and men’s rights websites has increased dramatically over the past few years. Second, we see an increasing number of men who refuse to get married. As one man put it, “Why should I get married when it is such a bad business deal for men? Marriage has over a 50 percent chance of failure, and my wife can divorce me for no reason at all due to the no-fault divorce laws, and ruin me financially by taking at least half of my assets and income through the anti-male divorce courts. She can also destroy me emotionally by taking my children from me and not allowing me to ever see them again”.<br>
+
+Just think about it- right now , at this very moment, millions of men’s lives are being destroyed by women who have filed false domestic violence (DV) charges against them, or filed false rape accusations against them, or by their ex-wives who are destroy the man’s life financially through the feminist divorce courts and are destroying the man emotionally by not allowing their fathers to see their own children! Who in their right mind would want to get married in such a system?<br>
+
+Also, over 50 percent of American women are single, without a husband or boyfriend. I’m sure the statistics in other western countries are similar. So the vast amounts of single women is more evidence that a very large percent of men are refusing to get married.<br>
+
+Third, an increasing number of western men are going to traditional non-feminist countries in Asia and marrying traditional asian women. I think it is this third trend towards totally opting out of modern western marriage that is the biggest slap in the face to feminist western women. I’ve heard many bitter and angry western women criticizing asian women and the western men who marry them, but it’s clear that western women are simply jealous of asian women and cannot compete with them. In case you haven’t noticed by now, asian women tend to be a lot more feminine, petite, and humble than masculine arrogant western women.<br>
+
+And the majority of western men who are married to asian women testify that they are very happy, much happier than they ever were with western or American women.
+
+Before we get into the substance of this essay, let me address one vital question. Most of you are probably asking “Who is Srila Prabhupada?” so let me give a brief biography.<br>
+
+Srila Prabhupada was born in Kolkata, India, in 1896. He met Bhaktisiddhanta Saraswati Goswami in 1922, who was the foremost scholar, philosopher, and devotee in India at that time. He requested Srila Prabhupada to preach India’s pure dharma in English to the western world. So in 1965, at the age of 69 years old, Srila Prabhupada traveled to America to preach this message. He arrived in New York City and began preaching about India’s Vedic dharma and culture, and within 10 years had established over a hundred temples all over the world, with tens of thousands of followers.<br>
+
+Srila Prabhupada’s most significant contribution, however, is his books. He published over 80 books, and translated the Srimad-Bhagavatam into English. In his Srimad-Bhagavatam translation, Srila Prabhupada addressed many issues about the modern society- politics, economics, culture, religion, spirituality, environ.</p>
+</div>
+
+
+
 <button class="accordion">शादी के प्रति अन्य आचार्यो के विचार </button>
 <div class="panel">
   <p>Weddings to me are wondrous because they are so filled with tomorrows. -Mary Forsell <br>
@@ -936,24 +968,6 @@ Before continuing, let me say a few words of encouragement. Over the past few ye
 .</p>
 </div>
 
-<button class="accordion">Point 4</button>
-<div id="foo" class="panel">
-  <p>First, the number of anti-feminism and men’s rights websites has increased dramatically over the past few years. Second, we see an increasing number of men who refuse to get married. As one man put it, “Why should I get married when it is such a bad business deal for men? Marriage has over a 50 percent chance of failure, and my wife can divorce me for no reason at all due to the no-fault divorce laws, and ruin me financially by taking at least half of my assets and income through the anti-male divorce courts. She can also destroy me emotionally by taking my children from me and not allowing me to ever see them again”.<br>
-
-Just think about it- right now , at this very moment, millions of men’s lives are being destroyed by women who have filed false domestic violence (DV) charges against them, or filed false rape accusations against them, or by their ex-wives who are destroy the man’s life financially through the feminist divorce courts and are destroying the man emotionally by not allowing their fathers to see their own children! Who in their right mind would want to get married in such a system?<br>
-
-Also, over 50 percent of American women are single, without a husband or boyfriend. I’m sure the statistics in other western countries are similar. So the vast amounts of single women is more evidence that a very large percent of men are refusing to get married.<br>
-
-Third, an increasing number of western men are going to traditional non-feminist countries in Asia and marrying traditional asian women. I think it is this third trend towards totally opting out of modern western marriage that is the biggest slap in the face to feminist western women. I’ve heard many bitter and angry western women criticizing asian women and the western men who marry them, but it’s clear that western women are simply jealous of asian women and cannot compete with them. In case you haven’t noticed by now, asian women tend to be a lot more feminine, petite, and humble than masculine arrogant western women.<br>
-
-And the majority of western men who are married to asian women testify that they are very happy, much happier than they ever were with western or American women.
-
-Before we get into the substance of this essay, let me address one vital question. Most of you are probably asking “Who is Srila Prabhupada?” so let me give a brief biography.<br>
-
-Srila Prabhupada was born in Kolkata, India, in 1896. He met Bhaktisiddhanta Saraswati Goswami in 1922, who was the foremost scholar, philosopher, and devotee in India at that time. He requested Srila Prabhupada to preach India’s pure dharma in English to the western world. So in 1965, at the age of 69 years old, Srila Prabhupada traveled to America to preach this message. He arrived in New York City and began preaching about India’s Vedic dharma and culture, and within 10 years had established over a hundred temples all over the world, with tens of thousands of followers.<br>
-
-Srila Prabhupada’s most significant contribution, however, is his books. He published over 80 books, and translated the Srimad-Bhagavatam into English. In his Srimad-Bhagavatam translation, Srila Prabhupada addressed many issues about the modern society- politics, economics, culture, religion, spirituality, environ.</p>
-</div>
 
 
 <button class="accordion">Iskcon के महान आचार्यो का शादी के प्रति विचार</button>
@@ -1000,7 +1014,7 @@ Nowadays, people begin to think that they need convenience rather than love—ju
             <div class="aa-title">
               <h2>Find your Special Someone</h2>
               <span></span>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum sit ea nobis quae vero voluptatibus.</p>
+              <p><!-- Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum sit ea nobis quae vero voluptatibus --></p>
             </div>
             <!-- service content -->
             <div class="aa-service-content">
@@ -1012,7 +1026,7 @@ Nowadays, people begin to think that they need convenience rather than love—ju
                     </div>
                     <div class="aa-single-service-content">
                       <h4><a href="#">Sign up</a></h4>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto repellendus quasi asperiores itaque dolorem at.</p>
+                      <p>Register for free & put up your Profile.</p>
                     </div>
                   </div>
                 </div>
@@ -1023,7 +1037,7 @@ Nowadays, people begin to think that they need convenience rather than love—ju
                     </div>
                     <div class="aa-single-service-content">
                       <h4><a href="#">Connect</a></h4>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto repellendus quasi asperiores itaque dolorem at.</p>
+                      <p>Select & Connect with Matches you like.</p>
                     </div>
                   </div>
                 </div>
@@ -1034,7 +1048,7 @@ Nowadays, people begin to think that they need convenience rather than love—ju
                     </div>
                     <div class="aa-single-service-content">
                       <h4><a href="#">Interact</a></h4>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto repellendus quasi asperiores itaque dolorem at.</p>
+                      <p>Become a Premium Member & Start a Conversation.</p>
                     </div>
                   </div>
                 </div>
@@ -1045,7 +1059,7 @@ Nowadays, people begin to think that they need convenience rather than love—ju
                     </div>
                     <div class="aa-single-service-content">
                       <h4><a href="#">Marrige</a></h4>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto repellendus quasi asperiores itaque dolorem at.</p>
+                      <p>Get together with parents and start a new life..</p>
                     </div>
                   </div>
                 </div>
@@ -1093,7 +1107,7 @@ Nowadays, people begin to think that they need convenience rather than love—ju
             <div class="aa-title">
               <h2>Million Happy Stories</h2>
               <span></span>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus eaque quas debitis animi ipsum, veritatis!</p>
+              <p><!-- Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus eaque quas debitis animi ipsum, veritatis! --></p>
             </div>
             <!-- testimonial content -->
             <div class="aa-testimonial-content">
@@ -1102,42 +1116,42 @@ Nowadays, people begin to think that they need convenience rather than love—ju
                 <li>
                   <div class="aa-testimonial-single">
                     <div class="aa-testimonial-img">
-                      <img src="img/testimonial-1.png" alt="testimonial img">
+                      <img src="img/success-story1.jpeg" alt="testimonial img">
                     </div>
                     <div class="aa-testimonial-info">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate consequuntur ducimus cumque iure modi nesciunt recusandae eligendi vitae voluptatibus, voluptatum tempore, ipsum nisi perspiciatis. Rerum nesciunt fuga ab natus, dolorem?</p>
+                      <p> Thank you VedicSahdi for making me meet my soulmate. I met my soul mate and better half through vedicshadi.com. It was a long search but was finally worth it. As soon as her profile came up on the search results, it was love at first site. Thank you VedicSahdi.com for making me meet my sweetheart! </p>
                     </div>
                     <div class="aa-testimonial-bio">
-                      <p>David Muller</p>
-                      <span>Web Designer</span>
+                      <p>Abhay & Sakshi</p>
+                      <span></span>
                     </div>
                   </div>
                 </li>
                  <li>
                   <div class="aa-testimonial-single">
                     <div class="aa-testimonial-img">
-                      <img src="img/testimonial-3.png" alt="testimonial img">
+                      <img src="img/success-story2.jpg" alt="testimonial img">
                     </div>
                     <div class="aa-testimonial-info">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate consequuntur ducimus cumque iure modi nesciunt recusandae eligendi vitae voluptatibus, voluptatum tempore, ipsum nisi perspiciatis. Rerum nesciunt fuga ab natus, dolorem?</p>
+                      <p>First of all I would like to thank VedicSahdi.com for helping me found my soulmate. On 25th April 2016 I received an interest from Sachin. I went through his profile and accepted it. What I liked most about his profile was he wanted to pursue his dreams along with his partner's. We were from same cast and my set preferences met what I was looking for. Next day I became a paid member and shared my WhatsApp no. with him. After few days he contacted me via. WhatsApp and asked me to share my biodata and pics so that he can share it with his family. I did the same and slowly we started to share about our likes, dislikes, families, what we both were looking for, our future plans etc. During all this we started liking each other. Although our parents decision was also important but when God is with you, everything falls in place. He came to see me along with his parents on 23rd May 2016. Our parents agreed to this match without any issues. And finally we got engaged on 20th July 2016 and tied the knot on 29th July 2016. Once again thank you Shaadi.com for giving me love of my life. :) </p>
                     </div>
                     <div class="aa-testimonial-bio">
-                      <p>David Muller</p>
-                      <span>Web Designer</span>
+                      <p>Jyoti & Sachin</p>
+                      <span><!-- Web Designer --></span>
                     </div>
                   </div>
                 </li>
                  <li>
                   <div class="aa-testimonial-single">
                     <div class="aa-testimonial-img">
-                      <img src="img/testimonial-2.png" alt="testimonial img">
+                      <img src="img/success-story3.jpg" alt="testimonial img">
                     </div>
                     <div class="aa-testimonial-info">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate consequuntur ducimus cumque iure modi nesciunt recusandae eligendi vitae voluptatibus, voluptatum tempore, ipsum nisi perspiciatis. Rerum nesciunt fuga ab natus, dolorem?</p>
+                      <p>I got an interest in my vedicshadi.com profile from her. Then I got called by her family. Later on we noticed that we are from same hometown. Its love marriage arranged by vedicshadi.com. Thanks Shadi.com. Warm Regards, Deepak & Smrati </p>
                     </div>
                     <div class="aa-testimonial-bio">
-                      <p>David Muller</p>
-                      <span>Web Designer</span>
+                      <p>Deepak & Smrati</p>
+                      <span><!-- Web Designer --></span>
                     </div>
                   </div>
                 </li>

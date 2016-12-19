@@ -54,12 +54,12 @@ require_once('code/common.php');
 
   <!-- Start header section -->
   <header id="aa-header" style="background-color:green;">  
-    <div class="container">
+    <div class="container" >
       <div class="row">
         <div class="col-md-12">
           <div class="aa-header-area">
             <div class="row">
-              <div class="col-md-8 col-sm-8 col-xs-8">
+              <div class="col-md-6 col-sm-6 col-xs-6">
                 <div class="aa-header-left">
                   <div class="aa-telephone-no">
                     <span class="fa fa-phone"></span>
@@ -70,7 +70,7 @@ require_once('code/common.php');
                   </div>
                 </div>              
               </div>
-              <div class="col-md-4 col-sm-4 col-xs-4">
+              <div class="col-md-6 col-sm-6 col-xs-6">
                 <div class="aa-header-right">
                   <a href="register.php" class="aa-register">Register</a>
 
@@ -148,6 +148,14 @@ echo ' <a href="signin.php" class="aa-login">Login</a>';
 
 
             <li><a href="contact.php">Contact Us</a></li>
+
+             <?php 
+              if(isset($_SESSION['email'])){
+                       if($_SESSION['email']=='admin@gmail.com'){
+                       ?>               
+            <li><a href="admin.php">Admin</a></li>
+<?php } } ?>
+
          <!--   <li><a href="404.php">404 PAGE</a></li> -->
           </ul>                            
         </div><!--/.nav-collapse -->       

@@ -448,7 +448,7 @@ img {
 }
 
 /*==================
-	SLIDER SECTION
+  SLIDER SECTION
 ====================*/
 
 #aa-slider {
@@ -556,7 +556,7 @@ img {
 }
 
 /*==================
-	ADVANCE SEARCH SECTION
+  ADVANCE SEARCH SECTION
 ====================*/
 
 #aa-advance-search {
@@ -649,7 +649,7 @@ img {
 }
 
 /*==================
-	ABOUT US SECTION
+  ABOUT US SECTION
 ====================*/
 
 #aa-about-us {
@@ -3095,7 +3095,7 @@ img {
   }
 
   #aa-slider .aa-slider-area .aa-top-slider .aa-top-slider-single img {
-    height: 300px;
+    height: 600px;
   }
 
   #aa-advance-search .aa-advance-search-area {
@@ -3203,6 +3203,10 @@ img {
 
 }
 @media (max-width: 360px) {
+  #aa-menu-area{
+top:55px;
+}
+
   #aa-slider .aa-slider-area .aa-top-slider .aa-top-slider-single .aa-top-slider-content {
     left: 20.5%;
   }
@@ -3269,7 +3273,7 @@ img {
   }
 
   #aa-slider .aa-slider-area .aa-top-slider .aa-top-slider-single img {
-    height: 320px;
+    height: 600px;
   }
 
   #aa-slider .aa-slider-area .aa-top-slider .slick-prev::before, #aa-slider .aa-slider-area .aa-top-slider .slick-next::before {
@@ -3406,6 +3410,10 @@ img {
     font-size: 12px;
   }
 
+  #aa-menu-area{
+top:65x;
+}
+  
   #aa-advance-search .aa-advance-search-area .aa-advance-search-bottom .aa-single-filter-search {
     margin-bottom: 20px;
   }

@@ -33,7 +33,7 @@ else{
 	
 	$_SESSION['userid']=$loginuser['id'];
 	$_SESSION['tokenid']=$loginuser['token_id'];
-
+    $_SESSION['email']=$loginuser['email'];
 
 
 	if($loginuser['email']=='admin@gmail.com'){
