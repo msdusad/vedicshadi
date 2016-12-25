@@ -40,7 +40,7 @@ foreach ($get as $view)
                 ?>
 
                 <div class="aa-about-us-left">
-                  <img src="profile_pics/
+                  <img src="
 <?php
 if($view['profile_pic']!=''){
   echo $view["profile_pic"];

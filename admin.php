@@ -28,7 +28,10 @@ tr td{
           <div class="aa-signin-area" style="width:150%;margin-left:-300px;">
             <div class="aa-signin-form" >
               <div class="aa-signin-form-title" >
-              
+
+            <center>  <button onclick="showuser('users');" class="btn btn-info">Users</button>  <button onclick="showmember('members');" class="btn btn-success">Members</button>  <button onclick="showcontact('contact_us');" class="btn btn-warning">Contact</button>  </center>
+            <br>
+              <div id="users">
               <table>
               	
 <thead>
@@ -70,6 +73,77 @@ foreach ($get as $view) {
 }
 ?>
               </table>
+              </div>
+
+<br>
+      <div id="members" style="display:none;">
+              <table>
+                
+<thead>
+<th>ID</th>
+<th> Name</th>  
+<th> Email</th> 
+<th> Mobile Number</th> 
+<th> Adahar Number</th> 
+<th> Address</th> 
+
+</thead>
+<?php
+
+$rt_data="select * from members";
+               $get=Common::FetchData($rt_data);
+
+foreach ($get as $view) {
+?>
+<tr>
+<td><?php echo $view['id'];?></td>
+<td><?php echo $view['name'];?></td>
+<td><?php echo $view['email'];?></td>
+<td><?php echo $view['phone_number'];?></td>
+<td><?php echo $view['adhar_no'];?></td>
+<td><?php echo $view['address'];?></td>
+</tr>
+<?php
+}
+?>
+              </table>
+              </div>
+
+<br>
+      <div id="contact_us" style="display:none;">
+              <table>
+                
+<thead>
+<th>ID</th>
+<th> Name</th>  
+<th> Email</th> 
+<th> Subject</th> 
+<th> Message</th> 
+
+
+
+</thead>
+<?php
+
+$rt_data="select * from contact_us";
+               $get=Common::FetchData($rt_data);
+
+foreach ($get as $view) {
+?>
+<tr>
+<td><?php echo $view['id'];?></td>
+<td><?php echo $view['name'];?></td>
+<td><?php echo $view['email'];?></td>
+<td><?php echo $view['subject'];?></td>
+<td><?php echo $view['message'];?></td>
+</tr>
+<?php
+}
+?>
+              </table>
+              </div>
+
+
 
             </div>
           </div>
@@ -79,3 +153,25 @@ foreach ($get as $view) {
   </section>
   
   <?php require_once('footer.php');?>
+
+  <script>
+function showuser(getid){
+document.getElementById(getid).style.display="block";
+document.getElementById('members').style.display="none";
+document.getElementById('contact_us').style.display="none";
+}
+function showmember(getid){
+  document.getElementById('members').style.display="block";
+document.getElementById('contact_us').style.display="none";
+document.getElementById('users').style.display="none";
+
+}
+
+function showcontact(getid){
+  document.getElementById('contact_us').style.display="block";
+document.getElementById('users').style.display="none";
+document.getElementById('members').style.display="none";
+
+
+}
+  </script>}

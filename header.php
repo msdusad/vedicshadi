@@ -63,7 +63,7 @@ require_once('code/common.php');
                 <div class="aa-header-left">
                   <div class="aa-telephone-no">
                     <span class="fa fa-phone"></span>
-                  +91 7027481102 , 7027471102
+                  +91 7027481102  &nbsp; &nbsp;<span class="fa fa-whatsapp"></span> 7027471102
                   </div>
                   <div class="aa-email hidden-xs">
                     <span class="fa fa-envelope-o"></span> info@vedicshadi.com
@@ -141,8 +141,8 @@ echo ' <a href="signin.php" class="aa-login">Login</a>';
     <li class="dropdown">
               <a class="dropdown-toggle" data-toggle="dropdown" href="about-us.php">Jobs <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">                
-                <li><a href="about-us.php">Part Time</a></li>
-                <li><a href="">Full TIme</a></li>                                            
+                <li><a href="part-time-job.php">Part Time</a></li>
+                <li><a href="full-time-job.php">Full TIme</a></li>                                            
               </ul>
             </li>
 

@@ -86,6 +86,87 @@ else{
 }
 
 
+public  function contactus(){
+
+    $name=mysql_real_escape_string($_POST['name']);
+    $email=mysql_real_escape_string($_POST['email']);
+    $subject=mysql_real_escape_string($_POST['subject']);
+    $message=mysql_real_escape_string($_POST['message']);
+
+    $contact="insert into contact_us (name,email,subject,message,submit_date) values ('$name','$email','$subject','$message',now())";
+$obj=Common::InsertData($contact);
+if($obj==true){ 
+      header('Location:../contact.php?submit=success');
+}
+else{
+    echo mysql_error();
+}
+
+    }
+
+
+
+    public  function member_add(){
+    $name=mysql_real_escape_string($_POST['name']);
+    $email=mysql_real_escape_string($_POST['email']);
+    $mobile_number=mysql_real_escape_string($_POST['phone_number']);
+    $address=mysql_real_escape_string($_POST['address']);
+    $adhar_number=mysql_real_escape_string($_POST['adahar_number']);
+
+       if(empty($_FILES['member_pic']['name'])) {
+        $pic="";
+    }
+    else{
+        $allowedExts = array("gif", "jpeg", "jpg", "png");
+$temp = explode(".", $_FILES["member_pic"]["name"]);
+$extension = end($temp);
+if ((($_FILES["member_pic"]["type"] == "image/gif")
+|| ($_FILES["member_pic"]["type"] == "image/jpeg")
+|| ($_FILES["member_pic"]["type"] == "image/jpg")
+|| ($_FILES["member_pic"]["type"] == "image/pjpeg")
+|| ($_FILES["member_pic"]["type"] == "image/x-png")
+|| ($_FILES["member_pic"]["type"] == "image/png"))
+&& in_array($extension, $allowedExts)){
+    
+    $pic=$_FILES['member_pic']['name'];
+     $profilepic="../profile_pics/".$_FILES['member_pic']['name'];
+    
+   // code for if file exists in folder
+   
+$addtional="1";
+while (file_exists($profilepic)) {
+    $info=pathinfo($profilepic);
+    $profilepic=$info['dirname']."/".$info['filename'].$addtional.'.'.$info['extension'];
+    $pic=$info['filename'].$addtional.'.'.$info['extension'];
+}
+    // end here file exists
+    
+    move_uploaded_file($_FILES['member_pic']['tmp_name'],$profilepic);
+}
+        
+        else{
+$pic="";
+      echo '<script type="text/javascript">alert("please upload  an Valid Image");window.location ="../full-time-job.php";</script>'; 
+            
+        }
+    } 
+
+  $update_qry="insert into members (name,email,phone_number,address,adhar_no,pic,create_at) values ('$name','$email','$mobile_number','$address','$adhar_number','$pic',now())";
+
+$obj=Common::InsertData($update_qry);
+if($obj==true){ 
+      header('Location:../full-time-job.php?submit=success');
+}
+else{
+    echo mysql_error();
+}
+
+
+
+
+}
+
+
 
 }
 
@@ -94,5 +175,22 @@ if(isset($_POST['complete_profile'])){
 	$ob=new CompleteProfile;
 	$ob->updateprofile();
 }
+
+
+if(isset($_POST['submit_contact_us'])){
+
+    $ob=new CompleteProfile;
+    $ob->contactus();
+}
+
+
+if(isset($_POST['member_submit'])){
+
+    $ob=new CompleteProfile;
+    $ob->member_add();
+}
+
+
+
 
 ?>
