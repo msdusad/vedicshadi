@@ -2,7 +2,7 @@
 require_once('common.php');
 class Register{
 
-public   function register(){
+public   function register_user(){
 
 $name=mysql_real_escape_string($_POST['name']);
 $password=mysql_real_escape_string($_POST['password']);
@@ -14,9 +14,28 @@ $token_id=rand(1,9999999999);
 	$register="insert into users (name,email,password,verified,created_at,updated_at,token_id) values('$name','$email','$password','0',now(),now(),$token_id);";
 	
 $obj=Common::InsertData($register);
-if($obj==true){
 
-	$subject = 'VedicShadi Account Activation Confirmation Mail';
+	$userloginacess="select * from users where email='$email' && password='$password' && token_id='$token_id'";
+$userstrt=Common::FetchData($userloginacess);
+
+foreach ($userstrt as $uservalue) {
+// 	$_SESSION['userid']=$uservalue['id'];
+ $setid= $uservalue['id'];
+
+$profilefill="insert into fullprofile (userid) values ('$setid');";
+$profile_obj=Common::InsertData($profilefill);
+
+if($uservalue['verified']=='0'){
+
+header('Location:../email_verification.php');
+
+}
+
+
+}
+	
+
+		$subject = 'VedicShadi Account Activation Confirmation Mail';
 $message = ("Dear  $name ,<br>Greetings!!!<br>
 Your Account had been created sucessfully :<br>
 For Confirmation <a href='http://vedicshadi.com/code/email_confirm.php?email=$email&token=$token_id'> Click Hear </a><br>
@@ -34,40 +53,15 @@ $header.= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
 $header.= "X-Priority: 1\r\n"; 
  mail($email, $subject, $message, $header);	
 
-
-	$userloginacess="select * from users where email='$email' && password='$password' && token_id='$token_id'";
-$userstrt=Common::FetchData($userloginacess);
-
-foreach ($userstrt as $uservalue) {
-// 	$_SESSION['userid']=$uservalue['id'];
-// $uservalue=$_SESSION['userid'];
-
-$profilefill="insert into fullprofile (userid) values('$uservalue');";
-$profile_obj=Common::InsertData($profilefill);
-
-if($uservalue['verified']=='0'){
-
-header('Location:../email_verification.php');
-
-}
-
-
-}
-	
      // header('Location:../complete-profile.php');
-      return $obj;
-}
-else{
-	return "not inserted";
-}
+     // return $obj;
+
 }
 }
 
 if(isset($_POST['name'])){
-
-
 $set=new Register;
-$set->register();
+$set->register_user();
 //echo $set;
 
 }

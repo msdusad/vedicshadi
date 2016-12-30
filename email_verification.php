@@ -8,7 +8,7 @@
           <div class="aa-signin-area">
             <div class="aa-signin-form">
               <div class="aa-signin-form-title">
-
+<br><br><br>
                 <h4>Email Confirmation Pending</h4>
               </div>
   

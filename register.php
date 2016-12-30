@@ -8,7 +8,7 @@
           <div class="aa-signin-area">
             <div class="aa-signin-form">
               <div class="aa-signin-form-title">
-                
+               <br><br><br> 
                 <h4>Create your account and Stay with us</h4>
               </div>
               <form action="code/register.php" method="post" class="contactform" name="register" id="register" onsubmit="return abc();">                                                 
